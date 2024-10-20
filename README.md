@@ -7,17 +7,17 @@
 
 -------------------------------
 
-![post kategoris](https://github.com/user-attachments/assets/9b8b4cde-b866-430b-8f0e-262dae601a25)
+#![post kategoris](https://github.com/user-attachments/assets/9b8b4cde-b866-430b-8f0e-262dae601a25)
 - **Method**: POST
 - **URL**: http://localhost:8000/api/kategoris
 - **Body**:
 
-![get kategoris](https://github.com/user-attachments/assets/af244d2d-2cc7-48e9-b063-782adadcf1cd)
+#![get kategoris](https://github.com/user-attachments/assets/af244d2d-2cc7-48e9-b063-782adadcf1cd)
 - **Method**: GET
 - **URL**: http://localhost:8000/api/kategoris
 - **Body**:
 
-![get bukus](https://github.com/user-attachments/assets/87cbeccd-c1a1-4e2f-9cf8-8a00a1b53c02)
+#![get bukus](https://github.com/user-attachments/assets/87cbeccd-c1a1-4e2f-9cf8-8a00a1b53c02)
 - **Method**: GET
 - **URL**: http://localhost:8000/api/bukus
 - **Klik Send**:
