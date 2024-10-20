@@ -1,4 +1,4 @@
-# API Toko Buku dengan Laravel 11
+# Praktikum Interoperabilitas: Membuat API Toko Buku dengan Laravel 11 dan Testing Menggunakan Postman
 
 ## ATAS NAMA PENGERJAAN:
 - **NAMA** : ISHAK HADI PERNAMA
