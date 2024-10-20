@@ -1,17 +1,17 @@
 # API Toko Buku dengan Laravel 11
 
 ## ATAS NAMA PENGERJAAN:
-- **NAMA**: [ISHAK HADI PERNAMA]
-- **NIM**: [362358302072]
-- **KELAS**: [2A TRPL]
+- **NAMA**: ISHAK HADI PERNAMA
+- **NIM**: 362358302072
+- **KELAS**: 2A TRPL
 
 --------
 
 ![post kategoris](https://github.com/user-attachments/assets/9b8b4cde-b866-430b-8f0e-262dae601a25)
 
-•	Method: POST
-•	URL: http://localhost:8000/api/kategoris
-•	Body :
+- **Method**: POST
+- **URL**: http://localhost:8000/api/kategoris
+- **Body**:
 
 ![get kategoris](https://github.com/user-attachments/assets/af244d2d-2cc7-48e9-b063-782adadcf1cd)
 •	Method: GET
@@ -41,6 +41,7 @@
 •	URL: http://localhost:8000/api/bukus/1
 •	Klik Send.
 
+---------
 
 Hasil Akhir Pengerjaan Tugas Mahasiswa
 1.	Tambahkan Validasi:
