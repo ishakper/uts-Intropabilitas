@@ -1,4 +1,4 @@
-![img7](https://github.com/user-attachments/assets/daf3a7b9-0c5b-4463-a131-4e36b2aa73fc)# API Toko Buku dengan Laravel 11
+# API Toko Buku dengan Laravel 11
 
 ## ATAS NAMA PENGERJAAN:
 - **NAMA** : ISHAK HADI PERNAMA
