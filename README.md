@@ -60,7 +60,7 @@
 
 -------------------------------------
 
-#Hasil Akhir Pengerjaan Tugas Mahasiswa:
+## Hasil Akhir Pengerjaan Tugas Mahasiswa:
 1.	Tambahkan Validasi:
 -	Nama buku tidak boleh kosong.
 -	Harga minimal Rp 1.000.
