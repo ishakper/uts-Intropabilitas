@@ -7,7 +7,7 @@
 
 -------------------------------
 
-#![post kategoris](https://github.com/user-attachments/assets/9b8b4cde-b866-430b-8f0e-262dae601a25)
+##![post kategoris](https://github.com/user-attachments/assets/9b8b4cde-b866-430b-8f0e-262dae601a25)
 - **Method**: POST
 - **URL**: http://localhost:8000/api/kategoris
 - **Body**:
