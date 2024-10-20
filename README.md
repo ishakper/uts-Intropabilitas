@@ -7,6 +7,23 @@
 
 -------------------------------
 
+- **Pastikan sudah terinstal PHP, Composer, dan MySQL.**
+- **Instal Laravel**:
+![composer](https://github.com/user-attachments/assets/e8b2158b-03c9-4a65-8292-2ee1132d5b4c)
+
+- **Buat database MySQL baru bernama 'tokobuku_db'.**
+- **Sesuaikan file .env dengan informasi berikut:**
+![img2](https://github.com/user-attachments/assets/4296824c-b89f-4019-a403-d1b7fb1946fb)
+
+- **Membuat Migration dan Model**
+![img4](https://github.com/user-attachments/assets/ba0f90db-cdf3-45e9-9549-0fdbca998749)
+- **Buat migration dan model untuk Kategori dan Buku:**
+![img6](https://github.com/user-attachments/assets/789803ad-2304-49d7-8d66-6f0d6ed9c90f)
+- **Buat controller untuk Kategori dan Buku:**
+![img7](https://github.com/user-attachments/assets/d572c43e-b9e3-4104-8ed4-8140399806d6)
+
+------------------
+
 - **Method**: POST
 - **URL**: http://localhost:8000/api/kategoris
 - **Body**:
