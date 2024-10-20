@@ -1,7 +1,11 @@
+# API Toko Buku dengan Laravel 11
 
-Hasil Akhir Pratikum
-Membuat API Toko Buku dengan Laravel 11 dan Testing Menggunakan Postman
+## ATAS NAMA PENGERJAAN:
+- **NAMA**: [ISHAK HADI PERNAMA]
+- **NIM**: [362358302072]
+- **KELAS**: [2A TRPL]
 
+--------
 
 ![post kategoris](https://github.com/user-attachments/assets/9b8b4cde-b866-430b-8f0e-262dae601a25)
 
