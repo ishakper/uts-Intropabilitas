@@ -1,4 +1,4 @@
-# API Toko Buku dengan Laravel 11
+![img7](https://github.com/user-attachments/assets/daf3a7b9-0c5b-4463-a131-4e36b2aa73fc)# API Toko Buku dengan Laravel 11
 
 ## ATAS NAMA PENGERJAAN:
 - **NAMA** : ISHAK HADI PERNAMA
@@ -60,7 +60,7 @@
 
 -------------------------------------
 
-Hasil Akhir Pengerjaan Tugas Mahasiswa
+- **Hasil Akhir Pengerjaan Tugas Mahasiswa:**
 1.	Tambahkan Validasi:
 -	Nama buku tidak boleh kosong.
 -	Harga minimal Rp 1.000.
